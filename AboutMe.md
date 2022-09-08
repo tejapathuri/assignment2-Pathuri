@@ -19,7 +19,8 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 ## Quotes 
 
 > Once you stop learning, you start dying *Albert Einstein*
->> Education is the most powerful weapon which you can use to change the world *Nelson Mandela*
+>
+> Education is the most powerful weapon which you can use to change the world *Nelson Mandela*
 
 
 
