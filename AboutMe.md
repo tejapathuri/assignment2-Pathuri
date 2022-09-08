@@ -5,3 +5,14 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 
 [Link to the Image](https://github.com/tejapathuri/assignment2-Pathuri/blob/main/Teja.png)
 
+****
+## Recommended Cities to visit
+|   Name of the City  |       Important Locations     | Amount of time to spend visiting | 
+|:--------------------|:------------------------------|:---------------------------------|
+|       Vizag         | RamaKrishna Beach             |     3 hr
+                        Rushikonda Beach                    2 hr 
+                        Indira Gandhi Zoological Park       A day                          
+|      Banglore       |
+|      Chennai        |
+|     Hyderabad       |
+
