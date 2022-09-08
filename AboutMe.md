@@ -5,7 +5,7 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 
 [Link to the Image](https://github.com/tejapathuri/assignment2-Pathuri/blob/main/Teja.png)
 
-****
+----
 ## Recommended Cities to visit
 |   Name of the City  |        Important Locations     | Amount of time to spend visiting | 
 |:--------------------|:------------------------------ |:---------------------------------|
