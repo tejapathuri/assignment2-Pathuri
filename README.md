@@ -14,6 +14,7 @@ The National Museum in New Delhi, also known as the National Museum of India. Th
 2. Easiest way and the fastest way to get to the airport is through a taxi it takes about 1hr 25mins. 
 
 #### Locations around the museum
+
     - Qutub Minar
     - Swaminarayan Akshardham
     - Gurudwara Bangla Sahib
