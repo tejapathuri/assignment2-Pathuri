@@ -7,12 +7,13 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 
 ****
 ## Recommended Cities to visit
-|   Name of the City  |       Important Locations     | Amount of time to spend visiting | 
-|:--------------------|:------------------------------|:---------------------------------|
-|       Vizag         | RamaKrishna Beach             |     3 hr
-                        Rushikonda Beach                    2 hr 
-                        Indira Gandhi Zoological Park       A day                          
-|      Banglore       |
-|      Chennai        |
-|     Hyderabad       |
+|   Name of the City  |        Important Locations     | Amount of time to spend visiting | 
+|:--------------------|:------------------------------ |:---------------------------------|
+|       Vizag         |  Indira Gandhi Zoological Park |      1 day                       |
+|      chennai        |  Kapaleeshwarar Temple         |      3 hours                     |
+|      Hyderabad      |  Charminar                     |      1 hour                      |
+|      Banglore       |  Lalbagh Botanical Garden      |      6 hours                     |
+
+
+
 
