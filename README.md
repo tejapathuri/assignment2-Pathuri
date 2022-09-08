@@ -12,16 +12,16 @@ The National Museum in New Delhi, also known as the National Museum of India. Th
     3. taxi 
     4. car or towncar
 2. Easiest way and the fastest way to get to the airport is through a taxi it takes about 1hr 25mins. 
+
 #### Locations around the museum
-* list of other locations around the museum that you would recommend for others
-    * Qutub Minar
-    * Swaminarayan Akshardham
-    * Gurudwara Bangla Sahib
-    * Humayun's Tomb
-    * Lodhi Garden
-    * Delhi Airport Metro Express
-    * Chandni Chowk
-    * India Gate
+    - Qutub Minar
+    - Swaminarayan Akshardham
+    - Gurudwara Bangla Sahib
+    - Humayun's Tomb
+    - Lodhi Garden
+    - Delhi Airport Metro Express
+    - Chandni Chowk
+    - India Gate
 
 
 
