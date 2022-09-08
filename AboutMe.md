@@ -3,4 +3,5 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 
 ![Image](Teja.png)
 
-[Link](https://github.com/tejapathuri/assignment2-Pathuri/blob/main/Teja.png)
+[Link to the Image](https://github.com/tejapathuri/assignment2-Pathuri/blob/main/Teja.png)
+
