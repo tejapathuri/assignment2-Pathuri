@@ -6,7 +6,7 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 [Link to the Image](https://github.com/tejapathuri/assignment2-Pathuri/blob/main/Teja.png)
 
 ----
-**Recommended Cities to visit**
+## Recommended Cities to visit
 |   Name of the City  |        Important Locations     | Amount of time to spend visiting | 
 |:--------------------|:------------------------------ |:---------------------------------|
 |       Vizag         |  Indira Gandhi Zoological Park |      1 day                       |
@@ -14,6 +14,12 @@ I am from India. Currently pursuing my masters at NorthWest Missouri State Unive
 |      Hyderabad      |  Charminar                     |      1 hour                      |
 |      Banglore       |  Lalbagh Botanical Garden      |      6 hours                     |
 
+---
+
+## Quotes 
+
+> Once you stop learning, you start dying *Albert Einstein*
+> Education is the most powerful weapon which you can use to change the world *Nelson Mandela*
 
 
 
